@@ -8,4 +8,4 @@ I've been following AI technology for the last decade, and believe we're in an e
 
 📫 How to reach me:
 
-I share content and learnings mostly through my LinkedIn account: [https://www.linkedin.com/in/ben-leane/](https://www.linkedin.com/in/ben-leane/).
+I share content and learnings mostly through my [Blog](https://benleane83.github.io) and [LinkedIn account](https://www.linkedin.com/in/ben-leane/).
