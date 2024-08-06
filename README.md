@@ -2,7 +2,7 @@
 
  🔭 I'm a software engineer and architect who works within the Microsoft ecosystem.
  
-You'll often find me working with businesses and development teams on how to deliver complex custom software solutions, and how to use AI Software Engineering tools and techniques to supercharge your productivity.
+You'll find me working with businesses and development teams on how to deliver complex custom software solutions, and how to use AI Software Engineering tools and techniques to supercharge your productivity.
 
 I've been following AI technology for the last decade, and believe we're in an exciting time for building applications and new AI-based user experiences.
 
